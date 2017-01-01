@@ -1,0 +1,8 @@
+2016-12-30_16:51:42: TAG=RobotProtocol----异或校验不通过==>检验值:155	接收值：10
+2016-12-30_16:51:42: TAG=RobotProtocol----数据帧==>type=90	moudel=7	order=6
+2016-12-30_16:51:46: TAG=RobotProtocol----异或校验不通过==>检验值:137	接收值：11
+2016-12-30_16:51:46: TAG=RobotProtocol----数据帧==>type=83	moudel=1	order=3
+2016-12-30_16:52:52: TAG=RobotProtocol----异或校验不通过==>检验值:137	接收值：11
+2016-12-30_16:52:52: TAG=RobotProtocol----数据帧==>type=83	moudel=1	order=3
+2016-12-30_16:53:36: TAG=RobotProtocol----异或校验不通过==>检验值:137	接收值：11
+2016-12-30_16:53:36: TAG=RobotProtocol----数据帧==>type=83	moudel=1	order=3
